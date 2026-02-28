@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.concept.spring.constant;
+package com.bytehonor.sdk.framework.concept.constant;
 
 import static org.junit.Assert.fail;
 

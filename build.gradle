@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'com.bytehonor.sdk'
-version = '0.1.4'
+version = '0.1.5'
 
 java {
     sourceCompatibility = 17
@@ -17,7 +17,7 @@ repositories {
 
 dependencies {
     implementation('org.slf4j:slf4j-api:2.0.17')
-    implementation('ch.qos.logback:logback-classic:1.5.18')
+    implementation('ch.qos.logback:logback-classic:1.5.32')
     testImplementation('junit:junit:4.13.2')
 }
 

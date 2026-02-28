@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.concept.spring.response;
+package com.bytehonor.sdk.framework.concept.response;
 
 import java.io.Serializable;
 

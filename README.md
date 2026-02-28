@@ -1,2 +1,2 @@
-# spring-concept-sdk
-spring-concept-sdk
+# concept-framework-sdk
+concept-framework-sdk

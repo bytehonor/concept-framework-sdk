@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.concept.spring.code;
+package com.bytehonor.sdk.framework.concept.code;
 
 /**
  * standard error code
