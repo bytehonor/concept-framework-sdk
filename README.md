@@ -1,2 +1,2 @@
-# concept-framework-sdk
-concept-framework-sdk
+# applet-concept-sdk
+applet-concept-sdk

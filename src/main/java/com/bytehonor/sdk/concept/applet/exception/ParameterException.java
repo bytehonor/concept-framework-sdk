@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.framework.concept.exception;
+package com.bytehonor.sdk.concept.applet.exception;
 
 public class ParameterException extends RuntimeException {
 

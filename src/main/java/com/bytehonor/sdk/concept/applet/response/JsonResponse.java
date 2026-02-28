@@ -1,9 +1,9 @@
-package com.bytehonor.sdk.framework.concept.response;
+package com.bytehonor.sdk.concept.applet.response;
 
 import java.io.Serializable;
 
-import com.bytehonor.sdk.framework.concept.code.StandardCode;
-import com.bytehonor.sdk.framework.concept.exception.ResponseException;
+import com.bytehonor.sdk.concept.applet.code.StandardCode;
+import com.bytehonor.sdk.concept.applet.exception.ResponseException;
 
 /**
  * Json Response

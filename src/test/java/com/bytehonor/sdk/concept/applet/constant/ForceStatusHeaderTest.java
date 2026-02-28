@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.framework.concept.constant;
+package com.bytehonor.sdk.concept.applet.constant;
 
 import static org.junit.Assert.fail;
 

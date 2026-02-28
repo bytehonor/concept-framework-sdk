@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.framework.concept.response;
+package com.bytehonor.sdk.concept.applet.response;
 
 import java.io.Serializable;
 import java.util.List;

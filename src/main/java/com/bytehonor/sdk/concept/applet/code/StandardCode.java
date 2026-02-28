@@ -1,4 +1,4 @@
-package com.bytehonor.sdk.framework.concept.code;
+package com.bytehonor.sdk.concept.applet.code;
 
 /**
  * standard error code

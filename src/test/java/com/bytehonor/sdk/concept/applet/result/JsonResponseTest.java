@@ -1,10 +1,10 @@
-package com.bytehonor.sdk.framework.concept.result;
+package com.bytehonor.sdk.concept.applet.result;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import com.bytehonor.sdk.framework.concept.response.JsonResponse;
+import com.bytehonor.sdk.concept.applet.response.JsonResponse;
 
 public class JsonResponseTest {
 
